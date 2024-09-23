@@ -21,7 +21,7 @@ This repository contains a Bash script for automatically setting up a Source Ded
 
    ```bash
    git clone https://github.com/thejordanprice/srcds-sh.git
-   cd srcds-setup
+   cd srcds-sh
 
 2. Make the script executable:
 
