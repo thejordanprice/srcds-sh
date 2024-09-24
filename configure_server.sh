@@ -12,6 +12,7 @@ mkdir -p "$(dirname "$CFG_FILE")"
 cat <<EOL > "$CFG_FILE"
 hostname "$HOSTNAME"
 motd "$MOTD"
+mp_autokick 0
 sv_minrate 13000
 sv_maxrate 30000
 sv_minupdaterate 33

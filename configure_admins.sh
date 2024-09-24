@@ -3,7 +3,7 @@
 # Variables
 SRCDS_INSTALL_DIR="$HOME/srcds"
 GAME="cstrike"
-ADMINS=("STEAM_0:0:12345678")  # Add more Steam IDs as needed
+ADMINS=("STEAM_0:0:32022486")  # Add more Steam IDs as needed
 
 ADMIN_FILE="$SRCDS_INSTALL_DIR/$GAME/addons/sourcemod/configs/admins_simple.ini"
 
