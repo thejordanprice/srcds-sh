@@ -23,15 +23,15 @@ This repository contains a Bash script for automatically setting up a Source Ded
    git clone https://github.com/thejordanprice/srcds-sh.git
    cd srcds-sh
 
-2. Make the script executable:
+2. Make the scripts executable:
 
    ```bash
-   chmod +x scrds-start.sh
+   chmod +x *.sh
 
 3. Run the script:
 
    ```bash
-   ./setup.sh
+   ./main.sh
 
 ## Configuration
 You can modify the following variables in the script to customize your server:
